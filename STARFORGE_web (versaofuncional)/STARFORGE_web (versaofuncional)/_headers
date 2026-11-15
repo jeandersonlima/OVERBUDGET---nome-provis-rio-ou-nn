@@ -1,0 +1,12 @@
+# Netlify / Cloudflare Pages: cabeçalhos corretos para módulos, PWA e cache
+/*
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: no-referrer
+/sw.js
+  Cache-Control: no-cache
+/index.html
+  Cache-Control: no-cache
+/game_config.json
+  Cache-Control: no-cache
+/icons/*
+  Cache-Control: public, max-age=31536000, immutable

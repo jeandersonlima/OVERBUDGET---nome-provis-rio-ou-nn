@@ -1,0 +1,17 @@
+{
+  "budgetMax": 320,
+  "difficultyId": "engineer",
+  "padPos": {
+    "x": 360,
+    "y": 430
+  },
+  "vehicleScale": 1,
+  "selectedCategory": "propulsion",
+  "equipped": {
+    "propulsion": "standard",
+    "avionics": "standard",
+    "structure": "standard",
+    "payload": "standard",
+    "satellite": "standard"
+  }
+}
